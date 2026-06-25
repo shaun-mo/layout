@@ -14,6 +14,11 @@ theme automatically.
 > new application 1:1 by copying a dozen files — no design system to rebuild, no dependencies
 > to untangle.
 
+> 📄 **Full implementation spec:** [`DASHBOARD_LAYOUT_SPEC.md`](./DASHBOARD_LAYOUT_SPEC.md) —
+> a single, code-complete reference (every file's source, architecture, theming rules, and
+> wiring points). This README is the quickstart; the spec is the deep reference, and is the
+> best file to hand to an AI agent verbatim.
+
 ---
 
 ## What you get
